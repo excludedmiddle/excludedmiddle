@@ -2,7 +2,7 @@ title: Gistbook
 author: Tomáš Krupka
 description: a simple way to organize your Gists in one place - Gistbook
 url: https://excludedmiddle.github.io
-baseurl: "/blog"
+baseurl: "/gistbook"
 
 theme: no-style-please
 
