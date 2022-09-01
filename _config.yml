@@ -1,6 +1,6 @@
 title: excluded middle
-author: Leonardo Lima
-description: this is a blog
+author: leonardo lima
+description: more noise than signal
 url: https://excludedmiddle.github.io
 baseurl: "/gistbook"
 
@@ -10,7 +10,7 @@ theme_config:
   appearance: "auto"
   back_home_text: "home"
   date_format: "%Y-%m-%d"
-  show_description: false
+  show_description: true
 
 collections:
   tags:
