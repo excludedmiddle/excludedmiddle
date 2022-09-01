@@ -1,21 +1,13 @@
 entries:
-  - title: info
-    entries:
-      - title: a simple way to organize your Gists in one place
-      - title: "try it for yourself: <a href='https://github.com/krupkat/gistbook'>github repo</a>"
-
-  - title: gists
+  - title: posts
     post_list:
-      limit: 7
+      limit: 10
       show_more: true
-      show_more_text: See all gists...
+      show_more_text: See all posts...
       show_more_url: gists
-
-  - title: feed
-    url: feed.xml
   
   - title: tags
     show_collection: tags
   
-  - title: personal website
+  - title: about me
     url: https://www.excludedmiddle.net
